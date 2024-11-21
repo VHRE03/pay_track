@@ -39,9 +39,13 @@ venv\Scripts\activate
 ```
 pip install -r requirements.txt
 ```
-5. Ejecuta el servidor de desarrollo:
+4. Ejecuta el servidor de desarrollo:
 ```
 python manage.py runserver
+```
+5. Accede a la documentación de las API: La documentación de las API está disponible en la siguiente URL:
+```
+http://127.0.0.1:8000/api/docs/
 ```
 
 ### **Frontend**
