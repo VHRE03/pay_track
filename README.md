@@ -65,11 +65,15 @@ http://localhost:5173/
 
 1. **CRUD Completo de:**
     - **Empleados**: Crear, leer, actualizar y eliminar registros de empleados.
-    Pasted image 20241121084237.png
+    ![image](https://github.com/user-attachments/assets/690d4c6f-a1f7-4cee-875a-e28e7730c669)
+
     - **Puestos**: Gestión completa de puestos laborales.
-	![[Pasted image 20241121084320.png]]
+   ![image](https://github.com/user-attachments/assets/df64ee9d-36d4-4961-9b1f-fffc676f25a5)
+
     - **Conceptos de Nómina**: Administración de conceptos relacionados con la nómina.
-    ![[Pasted image 20241121084349.png]]
+   ![image](https://github.com/user-attachments/assets/96585258-b2ed-4c2c-9d9f-029d39008954)
+
+
 1. **Pruebas en Backend (APIs)**:
     - Se realizaron pruebas en **Postman** para las siguientes secciones:
         - **AdminUser**: Gestión de usuarios administradores.
@@ -78,12 +82,13 @@ http://localhost:5173/
         - **Puesto-Concepto**: Relación entre puestos y conceptos de nómina.
 2. **Sistema de Login**:
     - Se creó la página de login en el frontend, pero **sin funcionalidad implementada**.
-    ![[Pasted image 20241121084420.png]]
+    ![image](https://github.com/user-attachments/assets/1f67c3f4-d0d5-44f6-96fb-6a39a74bdec9)
 
 ## **Modelo Entidad-Relación**
 
 A continuación, puedes insertar una captura de pantalla o imagen del modelo entidad-relación (ER):
-![[Copia de Diagrama ER de DBMS (notación UML).png]]
+![Copia de Diagrama ER de DBMS (notación UML)](https://github.com/user-attachments/assets/3228da80-3e4b-440c-9631-8525ccdb0eac)
+
 ## **Tecnologías Utilizadas**
 
 - **Backend**:
