@@ -65,7 +65,7 @@ http://localhost:5173/
 
 1. **CRUD Completo de:**
     - **Empleados**: Crear, leer, actualizar y eliminar registros de empleados.
-    ![[Pasted image 20241121084237.png]]
+    Pasted image 20241121084237.png
     - **Puestos**: Gestión completa de puestos laborales.
 	![[Pasted image 20241121084320.png]]
     - **Conceptos de Nómina**: Administración de conceptos relacionados con la nómina.
