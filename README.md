@@ -31,10 +31,10 @@ El proyecto está dividido en dos carpetas principales:
    cd backend
 
 2. Activa el entorno virtual:
-  # En sistemas UNIX (Linux/Mac):
+   En sistemas UNIX (Linux/Mac):
      ```bash
   source venv/bin/activate
-  # En Windows:
+  En Windows:
    ```bash
   venv\Scripts\activate
 
