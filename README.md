@@ -32,13 +32,17 @@ El proyecto está dividido en dos carpetas principales:
 
 2. Activa el entorno virtual:
   # En sistemas UNIX (Linux/Mac):
+     ```bash
   source venv/bin/activate
   # En Windows:
+   ```bash
   venv\Scripts\activate
 
 3. Instala las dependencias (solo si es necesario):
+   ```bash
    pip install -r requirements.txt
 
 4. Ejecuta el servidor de desarrollo:
+   ```bash
    python manage.py runserver
 
